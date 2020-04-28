@@ -40,7 +40,8 @@ Run program
 - Functions should not return vectors provided as output. In other words, vectors must be provided in output using output parameters (i.e. passing by reference).
 - Only headers from the standard library are allowed, however the use of the header <algorithm> is not allowed. If you are not sure whether a header is part of the standard library or not, try compiling on the Linux install on the lab computers, if it works it's part of the standard library.
 - Do not use the using namespace directive.
-
+- Make use of structs format
+  
 If anything, the door is always open. Contact details in bio.
 
 Enjoy!
