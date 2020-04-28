@@ -1,0 +1,4 @@
+#!/bin/bash
+g++ -std=c++11 mm3testing.cpp -o mm3testing
+
+./mm3testing <<< "10 10 1\n" >> "mm2_output.txt" & sleep 5 ; kill $!

@@ -1,0 +1,609 @@
+'length: 1num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 8e-05
+max: 8e-05
+min: 8e-05
+'length: 1num: 2 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000253
+max: 0.000253
+min: 0.000253
+'length: 1num: 3 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000317
+max: 0.000317
+min: 0.000317
+'length: 1num: 4 games: 1
+average attempts: 3
+max: 3
+min: 3
+average time: 0.00035
+max: 0.00035
+min: 0.00035
+'length: 1num: 5 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.000489
+max: 0.000489
+min: 0.000489
+'length: 1num: 6 games: 1
+average attempts: 5
+max: 5
+min: 5
+average time: 0.000696
+max: 0.000696
+min: 0.000696
+'length: 1num: 7 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.00075
+max: 0.00075
+min: 0.00075
+'length: 1num: 8 games: 1
+average attempts: 3
+max: 3
+min: 3
+average time: 0.000636
+max: 0.000636
+min: 0.000636
+'length: 1num: 9 games: 1
+average attempts: 8
+max: 8
+min: 8
+average time: 0.001718
+max: 0.001718
+min: 0.001718
+'length: 1num: 10 games: 1
+average attempts: 9
+max: 9
+min: 9
+average time: 0.002241
+max: 0.002241
+min: 0.002241
+'length: 1num: 11 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 0.002047
+max: 0.002047
+min: 0.002047
+'length: 1num: 12 games: 1
+average attempts: 11
+max: 11
+min: 11
+average time: 0.002781
+max: 0.002781
+min: 0.002781
+'length: 1num: 13 games: 1
+average attempts: 11
+max: 11
+min: 11
+average time: 0.003861
+max: 0.003861
+min: 0.003861
+'length: 1num: 14 games: 1
+average attempts: 11
+max: 11
+min: 11
+average time: 0.004328
+max: 0.004328
+min: 0.004328
+'length: 1num: 15 games: 1
+average attempts: 14
+max: 14
+min: 14
+average time: 0.004993
+max: 0.004993
+min: 0.004993
+'length: 2num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000184
+max: 0.000184
+min: 0.000184
+'length: 2num: 2 games: 1
+average attempts: 1
+max: 1
+min: 1
+average time: 0.000206
+max: 0.000206
+min: 0.000206
+'length: 2num: 3 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000371
+max: 0.000371
+min: 0.000371
+'length: 2num: 4 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.000931
+max: 0.000931
+min: 0.000931
+'length: 2num: 5 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.001676
+max: 0.001676
+min: 0.001676
+'length: 2num: 6 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.003765
+max: 0.003765
+min: 0.003765
+'length: 2num: 7 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.00375
+max: 0.00375
+min: 0.00375
+'length: 2num: 8 games: 1
+average attempts: 7
+max: 7
+min: 7
+average time: 0.009089
+max: 0.009089
+min: 0.009089
+'length: 2num: 9 games: 1
+average attempts: 8
+max: 8
+min: 8
+average time: 0.00833
+max: 0.00833
+min: 0.00833
+'length: 2num: 10 games: 1
+average attempts: 9
+max: 9
+min: 9
+average time: 0.018173
+max: 0.018173
+min: 0.018173
+'length: 2num: 11 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 0.027691
+max: 0.027691
+min: 0.027691
+'length: 2num: 12 games: 1
+average attempts: 9
+max: 9
+min: 9
+average time: 0.046679
+max: 0.046679
+min: 0.046679
+'length: 2num: 13 games: 1
+average attempts: 9
+max: 9
+min: 9
+average time: 0.058629
+max: 0.058629
+min: 0.058629
+'length: 2num: 14 games: 1
+average attempts: 8
+max: 8
+min: 8
+average time: 0.099307
+max: 0.099307
+min: 0.099307
+'length: 2num: 15 games: 1
+average attempts: 10
+max: 10
+min: 10
+average time: 0.141841
+max: 0.141841
+min: 0.141841
+'length: 3num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000187
+max: 0.000187
+min: 0.000187
+'length: 3num: 2 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000429
+max: 0.000429
+min: 0.000429
+'length: 3num: 3 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.00111
+max: 0.00111
+min: 0.00111
+'length: 3num: 4 games: 1
+average attempts: 3
+max: 3
+min: 3
+average time: 0.003092
+max: 0.003092
+min: 0.003092
+'length: 3num: 5 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.007953
+max: 0.007953
+min: 0.007953
+'length: 3num: 6 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.027492
+max: 0.027492
+min: 0.027492
+'length: 3num: 7 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.022225
+max: 0.022225
+min: 0.022225
+'length: 3num: 8 games: 1
+average attempts: 7
+max: 7
+min: 7
+average time: 0.115479
+max: 0.115479
+min: 0.115479
+'length: 3num: 9 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 0.458524
+max: 0.458524
+min: 0.458524
+'length: 3num: 10 games: 1
+average attempts: 7
+max: 7
+min: 7
+average time: 0.927528
+max: 0.927528
+min: 0.927528
+'length: 3num: 11 games: 1
+average attempts: 8
+max: 8
+min: 8
+average time: 1.67301
+max: 1.67301
+min: 1.67301
+'length: 3num: 12 games: 1
+average attempts: 7
+max: 7
+min: 7
+average time: 3.20645
+max: 3.20645
+min: 3.20645
+'length: 3num: 13 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 5.9101
+max: 5.9101
+min: 5.9101
+'length: 3num: 14 games: 1
+average attempts: 8
+max: 8
+min: 8
+average time: 8.97949
+max: 8.97949
+min: 8.97949
+'length: 3num: 15 games: 1
+average attempts: 8
+max: 8
+min: 8
+average time: 3.82756
+max: 3.82756
+min: 3.82756
+'length: 4num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 8.4e-05
+max: 8.4e-05
+min: 8.4e-05
+'length: 4num: 2 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.000472
+max: 0.000472
+min: 0.000472
+'length: 4num: 3 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000888
+max: 0.000888
+min: 0.000888
+'length: 4num: 4 games: 1
+average attempts: 3
+max: 3
+min: 3
+average time: 0.028596
+max: 0.028596
+min: 0.028596
+'length: 4num: 5 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.14401
+max: 0.14401
+min: 0.14401
+'length: 4num: 6 games: 1
+average attempts: 5
+max: 5
+min: 5
+average time: 0.617364
+max: 0.617364
+min: 0.617364
+'length: 4num: 7 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 2.17964
+max: 2.17964
+min: 2.17964
+'length: 4num: 8 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 9.42345
+max: 9.42345
+min: 9.42345
+'length: 4num: 9 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 15.8236
+max: 15.8236
+min: 15.8236
+'length: 4num: 10 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 31.3037
+max: 31.3037
+min: 31.3037
+'length: 5num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 8.1e-05
+max: 8.1e-05
+min: 8.1e-05
+'length: 5num: 2 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000947
+max: 0.000947
+min: 0.000947
+'length: 5num: 3 games: 1
+average attempts: 3
+max: 3
+min: 3
+average time: 0.018201
+max: 0.018201
+min: 0.018201
+'length: 5num: 4 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.353609
+max: 0.353609
+min: 0.353609
+'length: 5num: 5 games: 1
+average attempts: 3
+max: 3
+min: 3
+average time: 3.48555
+max: 3.48555
+min: 3.48555
+'length: 5num: 6 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 18.7098
+max: 18.7098
+min: 18.7098
+'length: 6num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 8.6e-05
+max: 8.6e-05
+min: 8.6e-05
+'length: 6num: 2 games: 1
+average attempts: 3
+max: 3
+min: 3
+average time: 0.003166
+max: 0.003166
+min: 0.003166
+'length: 6num: 3 games: 1
+average attempts: 3
+max: 3
+min: 3
+average time: 0.11018
+max: 0.11018
+min: 0.11018
+'length: 6num: 4 games: 1
+average attempts: 5
+max: 5
+min: 5
+average time: 1.96448
+max: 1.96448
+min: 1.96448
+'length: 7num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000115
+max: 0.000115
+min: 0.000115
+'length: 7num: 2 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.011567
+max: 0.011567
+min: 0.011567
+'length: 7num: 3 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.38814
+max: 0.38814
+min: 0.38814
+'length: 7num: 4 games: 1
+average attempts: 5
+max: 5
+min: 5
+average time: 25.8703
+max: 25.8703
+min: 25.8703
+'length: 8num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000132
+max: 0.000132
+min: 0.000132
+'length: 8num: 2 games: 1
+average attempts: 3
+max: 3
+min: 3
+average time: 0.015426
+max: 0.015426
+min: 0.015426
+'length: 8num: 3 games: 1
+average attempts: 5
+max: 5
+min: 5
+average time: 9.52921
+max: 9.52921
+min: 9.52921
+'length: 9num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000124
+max: 0.000124
+min: 0.000124
+'length: 9num: 2 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 0.106852
+max: 0.106852
+min: 0.106852
+'length: 9num: 3 games: 1
+average attempts: 5
+max: 5
+min: 5
+average time: 34.1471
+max: 34.1471
+min: 34.1471
+'length: 10num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000128
+max: 0.000128
+min: 0.000128
+'length: 10num: 2 games: 1
+average attempts: 5
+max: 5
+min: 5
+average time: 0.062921
+max: 0.062921
+min: 0.062921
+'length: 11num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000119
+max: 0.000119
+min: 0.000119
+'length: 11num: 2 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 0.973166
+max: 0.973166
+min: 0.973166
+'length: 12num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000129
+max: 0.000129
+min: 0.000129
+'length: 12num: 2 games: 1
+average attempts: 5
+max: 5
+min: 5
+average time: 3.19924
+max: 3.19924
+min: 3.19924
+'length: 1num: 7 games: 1
+average attempts: 4
+max: 4
+min: 4
+average time: 0.000496
+max: 0.000496
+min: 0.000496
+'length: 13num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000172
+max: 0.000172
+min: 0.000172
+'length: 13num: 2 games: 1
+average attempts: 7
+max: 7
+min: 7
+average time: 13.0695
+max: 13.0695
+min: 13.0695
+'length: 14num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.000127
+max: 0.000127
+min: 0.000127
+'length: 14num: 2 games: 1
+average attempts: 6
+max: 6
+min: 6
+average time: 25.9379
+max: 25.9379
+min: 25.9379
+'length: 15num: 1 games: 1
+average attempts: 2
+max: 2
+min: 2
+average time: 0.00013
+max: 0.00013
+min: 0.00013
