@@ -43,7 +43,7 @@ Run program
 - Make use of structs format
  
 ## Final comments
-Many thanks to our lecturer, Dr. Cattafi, and the Imperial library for being open 24/7 !! 😅
+Many thanks to our lecturer, Dr. Cattafi, @JaafarRammal for the fun all-nighter... and the Imperial library for being open 24/7 !! 😅
 
 ----------------------------------------------------------------------------------------------------------------------------
 
