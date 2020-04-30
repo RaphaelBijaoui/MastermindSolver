@@ -1,5 +1,5 @@
 # MastermindSolver
-### Final coursework for EE1 - Introduction to Computing
+Final coursework for EE1-07 Software Engineering 1, taught by Dr. Max Cattafi.
 
 This assignment deals with a game known as Mastermind or Master Mind, as can be seen in 
 <a href="http://www.cs.uni.edu/~wallingf/teaching/cs3530/resources/knuth-mastermind.pdf">this paper</a> from Donald Knuth.
@@ -41,7 +41,12 @@ Run program
 - Only headers from the standard library are allowed, however the use of the header <algorithm> is not allowed. If you are not sure whether a header is part of the standard library or not, try compiling on the Linux install on the lab computers, if it works it's part of the standard library.
 - Do not use the using namespace directive.
 - Make use of structs format
-  
+ 
+## Final comments
+Many thanks to our lecturer, Dr. Cattafi, and the Imperial library for being open 24/7 !! 😅
+
+----------------------------------------------------------------------------------------------------------------------------
+
 If anything, the door is always open. Contact details in bio.
 
 Enjoy!
